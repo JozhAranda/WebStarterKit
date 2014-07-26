@@ -1,0 +1,29 @@
+{
+  "version": "1.0.0",
+  "name": "Blog",
+  "launch_path": "/index.html",
+  "description": "Un blog realizado con Web Starter Kit.",
+  "icons": {
+    "128": "/images/touch/icon-128x128.png"
+  },
+  "developer": {
+    "name": "Joshua Aranda",
+    "url": "http://joshuaranda.com"
+  },
+  "installs_allowed_from": [
+    "*"
+  ],
+  "default_locale": "en",
+  "permissions": {
+  },
+  "locales": {
+    "en": {
+      "name": "Blog",
+      "description": "A blog made ​​with Web Starter Kit."
+    },
+	"es": {
+	  "name": "Blog",
+	  "Description": "Un blog realizado con Web Starter Kit."
+	}
+  }
+}
